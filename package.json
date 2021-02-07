@@ -1,0 +1,16 @@
+{
+  "name": "chrome-plugin-icon-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "chrome-icon-gen": "./cli.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "rimraf": "^3.0.2",
+    "sharp": "^0.27.1"
+  }
+}
